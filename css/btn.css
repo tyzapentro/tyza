@@ -1,0 +1,13 @@
+
+.DimasBTN{
+	border: none;
+	padding: 13px ;
+	border-radius: 4px;
+	width: 150px;
+	height: 150px;
+	color: #fff;
+	background-color: greenyellow;
+	cursor: pointer;
+	transition: background-color 0.3s ease-in-out;\
+	
+}
